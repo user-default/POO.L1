@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-class Main {
+class Q2
+{
   public static void main(String[] args) {
     
     Scanner teclado1 = new Scanner(System.in);
